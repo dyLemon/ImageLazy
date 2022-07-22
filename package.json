@@ -1,7 +1,8 @@
 {
   "name": "vue-imagelazy-dy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./imgLazy.js",
   "description": "这是一个图片懒加载",
-  "author": "dy"
+  "author": "dy",
+  "homepage": "https://github.com/dyLemon/ImageLazy.git"
 }
